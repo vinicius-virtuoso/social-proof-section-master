@@ -58,14 +58,15 @@ body {
       font-size: 300%;
       font-weight: 700;
       color: $Very-Dark-Magenta;
-      max-width: 90%;
+      max-width: 70%;
     }
     p {
       font-size: $Font-size;
       font-weight: 500;
-      max-width: 90%;
+      max-width: 70%;
       color: $Dark-Grayish-Magenta;
       padding: 1rem 0;
+      line-height: 2;
     }
 
     .star-info {

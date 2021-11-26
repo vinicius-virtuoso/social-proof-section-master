@@ -71,15 +71,16 @@ body {
   font-size: 300%;
   font-weight: 700;
   color: #502050;
-  max-width: 90%;
+  max-width: 70%;
 }
 
 .content .box p {
   font-size: 15px;
   font-weight: 500;
-  max-width: 90%;
+  max-width: 70%;
   color: #937b92;
   padding: 1rem 0;
+  line-height: 2;
 }
 
 .content .box .star-info {

@@ -222,6 +222,9 @@ body {
   .content .box {
     width: 100%;
     max-width: 420px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
   .content .box h1 {
     font-size: 200%;

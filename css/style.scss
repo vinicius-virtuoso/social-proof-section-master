@@ -35,7 +35,7 @@ body {
 
 .container {
   width: 100%;
-  max-width: 1220px;
+  max-width: 1400px;
   display: flex;
   flex-direction: column;
 }
@@ -111,7 +111,7 @@ body {
 }
 .box-people {
   width: 100%;
-  max-width: 360px;
+  max-width: 425px;
   background: $Very-Dark-Magenta;
   padding: 2.5rem 2rem;
   border-radius: 1rem;
@@ -149,7 +149,7 @@ body {
     margin-top: 0.5rem;
     color: $Light-Grayish-Magenta;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 2;
   }
 }
 
@@ -177,7 +177,7 @@ body {
     }
     .box {
       width: 100%;
-      max-width: 360px;
+      max-width: 420px;
 
       h1 {
         font-size: 200%;
